@@ -1,0 +1,11 @@
+D:\project-external\pajuno\remotecard-client\bin\Debug\netcoreapp2.2\remotecard-client.deps.json
+D:\project-external\pajuno\remotecard-client\bin\Debug\netcoreapp2.2\remotecard-client.runtimeconfig.json
+D:\project-external\pajuno\remotecard-client\bin\Debug\netcoreapp2.2\remotecard-client.runtimeconfig.dev.json
+D:\project-external\pajuno\remotecard-client\bin\Debug\netcoreapp2.2\remotecard-client.dll
+D:\project-external\pajuno\remotecard-client\bin\Debug\netcoreapp2.2\remotecard-client.pdb
+D:\project-external\pajuno\remotecard-client\obj\Debug\netcoreapp2.2\remotecard-client.csprojAssemblyReference.cache
+D:\project-external\pajuno\remotecard-client\obj\Debug\netcoreapp2.2\remotecard-client.csproj.CoreCompileInputs.cache
+D:\project-external\pajuno\remotecard-client\obj\Debug\netcoreapp2.2\remotecard-client.AssemblyInfoInputs.cache
+D:\project-external\pajuno\remotecard-client\obj\Debug\netcoreapp2.2\remotecard-client.AssemblyInfo.cs
+D:\project-external\pajuno\remotecard-client\obj\Debug\netcoreapp2.2\remotecard-client.dll
+D:\project-external\pajuno\remotecard-client\obj\Debug\netcoreapp2.2\remotecard-client.pdb
