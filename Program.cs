@@ -19,8 +19,16 @@ namespace remotecard_client
                 {"terminalId", "1000000000123450"},
                 {"operation", "handshake"},
             };
-            string sessionResult = doPost(RESOURCE_BASE + "/authenticate", objects);
+            string sessionResult = doPost(RESOURCE_BASE + "/api/handshake", objects);
             Console.WriteLine("\nServer response ..."+sessionResult);
+
+            Console.WriteLine("\nSending card read operation...");
+            objects = new Dictionary<string, object>(){
+                {"terminalId", "1000000000123450"},
+                {"operation", "read"},
+            };
+            string cardJson = doPost(RESOURCE_BASE + "/api/read", objects);
+            Console.WriteLine("\nServer response ..." + cardJson);
         }
 
         static string doGet(string endpoint){
